@@ -7,6 +7,7 @@ dependencies:
   - geoviews
   - gsw
   - fsspec
+  - holoviews=1.14.2
   - hvplot
   - jupyterlab=2
   - jupyter-panel-proxy
@@ -15,6 +16,9 @@ dependencies:
   - pandas
   - pip=20
   - pykrige
-  - xarray
+  - pyarrow
+  - xarray=0.16.2
+  - intake
+  - intake-parquet
   - pip:
     - git+git://github.com/dhruvbalwada/GliderTools.git@add_spice
