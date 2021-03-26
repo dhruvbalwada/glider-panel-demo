@@ -1,5 +1,7 @@
 # glider-panel-demo
 This repository showcases how [Holoviz](https://holoviz.org/) libraries can be used to build a dashboard to easily visualize [ocean glider](https://en.wikipedia.org/wiki/Underwater_glider) data. The scales of ocean observed by gliders are extremely dynamic and contain variability over a large range of scales, hence the interactive visualization process really helps to make faster discovery in the data.   
+
+Everyone will have different data sets, different questions, and hence different visualization and interactivity needs. The primariy purpose of this repo is not to make a polished dashboard that works with a single data set, but rather to provide code/notebook examples that can be easily adapted by others to their particular scenarios.
   
 To see the final dashboard launch the interactive Panel App with MyBinder.org:  
 
