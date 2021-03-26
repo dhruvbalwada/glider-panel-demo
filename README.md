@@ -5,7 +5,7 @@ To see the final dashboard launch the interactive Panel App with MyBinder.org:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dhruvbalwada/glider-panel-demo/main?urlpath=%2Fpanel%2Fglider_combined_plot) 
 
-This should being up a running version of the dashboard, and relies on the notebook `glider_combined_plot.ipynb`.  
+This should being up a running version of the dashboard, and relies on the notebook `glider_combined_plot.ipynb` (the main notebook in this repo).  
 
 For interacting with all the notebooks in this repo Launch Jupyter Lab Interface:  
 
