@@ -27,7 +27,7 @@ panel serve holoviz_gliderdash.ipynb
 
 Here is a wishlist of things we would like to see happen in the future:
 
-- A smoothly working 2 way link between the time slider and panning/zooming glider figure. Currently the glider section can only be panned using the sliders, it would be nice if the sliders responded to paning using the tools that are attached to the plot.
+- A smoothly working 2 way link between the time slider and panning/zooming glider figure. Currently the glider section can only be panned using the sliders, it would be nice if the sliders responded to paning using the tools that are attached to the plot. (potential solution here: https://discourse.holoviz.org/t/linking-widget-to-holoviews-elements-parameters/1958/2)
 - Have a second x axis with the alternate dimension (time or distance) (Solved here, but needs a bit more of JS background: https://discourse.holoviz.org/t/secondary-x-axis/1965/7)
 - Right now zooming and adjusting time slider resets different panels, would be nice to keep zoom levels.
 - Similarly, the colorlevels (selected using the attached hist) are reset when adjusting sliders. Would be nice to stop this reseting.
